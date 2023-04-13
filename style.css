@@ -1,0 +1,20 @@
+body {
+    background: url('bg.jpg') no-repeat center center fixed; 
+    background-size: cover;
+  
+}
+.main {
+  position: absolute;
+  display: flex;
+  align-items: stretch;
+  color: azure;
+  margin-top: 20px;
+  margin-left: 150px;
+  font-size:large;
+}
+.test {
+  font-size: 70px;
+  margin-top: 150px;
+  margin-left: 180px;
+  margin-right: 120px;
+}
